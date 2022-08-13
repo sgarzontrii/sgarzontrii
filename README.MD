@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Santiago Garzón
+### Hi there 👋 
 
 - 🔭 I’m currently working at [Trii](https://github.com/trii-co) as a Technical Lead
 - Just a guy who loves to code and solve problems (mostly with Python)
